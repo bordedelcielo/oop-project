@@ -5,4 +5,7 @@ class fromSoftwareBoss():
         self.name = name
         self.game = game
 
-fromSoftwareBoss('Slave Knight Gael','The Ringed City')
+boss = fromSoftwareBoss('Slave Knight Gael','The Ringed City')
+
+print(boss.name)
+print(boss.game)
