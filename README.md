@@ -1,1 +1,1 @@
-A Python 🐍 Object-Oriented Program demonstrating the use of the super() method.
+A simple Python 🐍 Object-Oriented Program
